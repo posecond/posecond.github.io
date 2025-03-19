@@ -1,1 +1,0 @@
-import{t as o,a}from"../chunks/oTSQPcHX.js";import"../chunks/CRyTntPW.js";var n=o('<div class="flex flex-col items-center justify-center h-screen select-none"><h1 class="font-bold bg-background text-foreground text-center relative">I am Zach Meng. I craft things through elegant code.</h1></div>');function s(e){var t=n();a(e,t)}export{s as component};
